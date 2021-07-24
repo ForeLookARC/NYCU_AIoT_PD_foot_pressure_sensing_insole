@@ -34,7 +34,9 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - 2 8-Channel 12-Bit ADC for Raspberry Pi (STM32F030)
 - 2 RPi UPSPack V3
 - 2 4000mAh Lithium Battery
-- 16 FlexiForce A301 Pressure Sensor (111N)
+- 2 Pressure Sensing Insole(Homemade)
+	- 16 FlexiForce A301 Pressure Sensor (111N)
+	
 
 - **The physical picture shown below.**
 <img src="hardware/photo.png" alt="photo" width="50%"/>
