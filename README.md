@@ -19,3 +19,19 @@ This application is designed to show how to diagnose whether the users have the 
 
 AIoT PD Foot Pressure Sensing Insole is a smart device which can be used to monitor the high-risk populations of Parkinson's disease. By daily monitoring, users can get the warning before everything get worse and look for the treatment as soon as possible. For PD patients, our project can also be a severity reference.
 
+### Function
+
+### System Architecture
+
+### Android App
+
+## Hardware and Software Setup
+### Required Hardware
+
+### Required Software
+
+### Hardware Connection
+
+## User Manual
+### Before Running This Application
+### Run This Application
