@@ -38,6 +38,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 
 ## User Manual
 ### Before Running This Application
+- Download source code and AIoT-PD App from github
 ### Run This Application
 
 
