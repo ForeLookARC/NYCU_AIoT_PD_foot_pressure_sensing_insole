@@ -46,6 +46,10 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - AIoT-PD Android App
 
 ### Hardware Connection
+- Connect **Himax WE-I Plus** to **Raspberry Pi** with USB cable(using UART)
+- Connect **Raspberry Pi** to **8-Channel 12-Bit ADC** and **RPi UPSPack V3**(with Lithium Battery)
+- Connect **pressure sensing insole** to **8-Channel 12-Bit ADC**
+- Connect **Raspberry Pi** and mobile phone via WiFi
 
 ## User Manual
 ### Before Running This Application
