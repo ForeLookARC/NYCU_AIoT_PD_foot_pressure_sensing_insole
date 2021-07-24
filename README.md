@@ -39,6 +39,6 @@ Our device can be controlled by AIOT-PD Android App. You can start/stop the meas
 ### Run This Application
 
 
-[0]: doc/screenshots/APP.png	"app_pic" 
+[0]: doc/screenshots/app_ui.png	"app_pic" 
 
 
