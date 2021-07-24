@@ -24,7 +24,7 @@ AIoT PD Foot Pressure Sensing Insole is a smart device which can be used to moni
 ### Android App
 Our device can be controlled by AIoT-PD Android App. You can start/stop the measurement, see your foot pressure destribution and the final result on the App.
 
-![app pic][0]
+<img src="doc/screenshots/APP.png" alt="APP" width="50%"/>
 ## Hardware and Software Setup
 ### Required Hardware
 - 1 [Himax WE-I Plus EVB Endpoint AI Development Board][2]
@@ -66,7 +66,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 ### Run This Application
 
 
-[0]: doc/screenshots/APP.png	"app_pic" 
+
 [1]: http://www.memstec.com.tw/productDetail.php?PNo=107	"FlexiForce A301 Pressure Sensor (111N)"
 [2]: https://www.sparkfun.com/products/17256	"Himax WE-I Plus EVB Endpoint AI Development Board"
 [3]: https://wiki.seeedstudio.com/8-Channel_12-Bit_ADC_for_Raspberry_Pi-STM32F030/	"8-Channel 12-Bit ADC for Raspberry Pi (STM32F030)"
