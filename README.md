@@ -33,7 +33,11 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - 2 RPi UPSPack V3
 - 2 4000mAh Lithium Battery
 - 16 FlexiForce A301 Pressure Sensor (111N)
+
+- **The physical picture shown below.**
 ![hardware_pic][1]
+
+- **The structure diagram shown below.**
 ![hardware_pic][2]
 ### Required Software
 - Metaware or ARC GNU Toolset
