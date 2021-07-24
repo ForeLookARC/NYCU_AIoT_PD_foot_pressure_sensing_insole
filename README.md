@@ -27,8 +27,8 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 ![app pic][0]
 ## Hardware and Software Setup
 ### Required Hardware
-![hardware_pic][0]
 ![hardware_pic][1]
+![hardware_pic][2]
 ### Required Software
 - Metaware or ARC GNU Toolset
 - embARC Machine Learning Inference Library
@@ -42,5 +42,5 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 
 
 [0]: doc/screenshots/APP.png	"app_pic" 
-[0]: doc/hardware/Rpi_Himax.png	"hardware_pic"
-[1]: doc/hardware/Insole.png	"hardware_pic"
+[1]: doc/hardware/Rpi_Himax.jpg	"hardware_pic"
+[2]: doc/hardware/Insole.png	"hardware_pic"
