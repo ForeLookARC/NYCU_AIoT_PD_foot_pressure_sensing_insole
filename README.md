@@ -35,10 +35,12 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - 16 FlexiForce A301 Pressure Sensor (111N)
 
 - **The physical picture shown below.**
-![hardware_pic][1]({:height="100px" width="400px"}
+![hardware_pic][1](url){:height="100px" width="400px"}
 
 - **The structure diagram shown below.**
 ![hardware_pic][2]
+![photo]
+<img src="images/cover.png" alt="Cover" width="50%"/>
 ### Required Software
 - Metaware or ARC GNU Toolset
 - embARC Machine Learning Inference Library
@@ -49,19 +51,11 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 ## User Manual
 ### Before Running This Application
 - Download source code and AIoT-PD App from github
-- Setup hardware connection
-The hardware resources are allocated as following table.
-
-|  Hardware Resource  |            Function                                           |
-| ------------------- | ------------------------------------------------------------- |
-|  FlexiForce A301    |        Pressure  sensor                                       |
-|  STM32F030          |        ADC for Raspberry Pi                                   |
-|  RPi UPSPack V3     |        Portable Power Supply                                  |
-|  Raspberry Pi 3     |        Data Preprocessing, Provide WiFi Connection            |
 ### Run This Application
 
 
 [0]: doc/screenshots/APP.png	"app_pic" 
 [1]: hardware/photo.png	"hardware_pic"
+<img src="hardware/photo.png" alt="photo" width="50%"/>
 [2]: hardware/Rpi_Himax.jpg	"hardware_pic"
 
