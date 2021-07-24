@@ -49,6 +49,15 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 ## User Manual
 ### Before Running This Application
 - Download source code and AIoT-PD App from github
+- Setup hardware connection
+The hardware resources are allocated as following table.
+
+|  Hardware Resource  |            Function                                           |
+| ------------------- | ------------------------------------------------------------- |
+|  FlexiForce A301    |        Pressure  sensor                                       |
+|  STM32F030          |        ADC for Raspberry Pi                                   |
+|  RPi UPSPack V3     |        Portable Power Supply                                  |
+|  Raspberry Pi 3     |        Data Preprocessing, Provide WiFi Connection            |
 ### Run This Application
 
 
