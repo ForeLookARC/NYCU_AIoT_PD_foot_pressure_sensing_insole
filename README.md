@@ -34,7 +34,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - 2 [8-Channel 12-Bit ADC for Raspberry Pi (STM32F030)][3]
 - 2 [RPi UPSPack V3][4]
 - 2 4000mAh Lithium Battery
-- 2 Pressure Sensing Insoles (Homemade)
+- 2 Pressure Sensing Insoles(Homemade)
 
 - **The Pressure Sensing Insole shown below.**
 
