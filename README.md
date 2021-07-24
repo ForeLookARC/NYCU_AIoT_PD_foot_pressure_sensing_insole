@@ -35,7 +35,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - 16 FlexiForce A301 Pressure Sensor (111N)
 
 - **The physical picture shown below.**
-![hardware_pic][1]{:height="100px" width="400px"}
+![hardware_pic][1]({:height="100px" width="400px"}
 
 - **The structure diagram shown below.**
 ![hardware_pic][2]
