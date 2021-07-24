@@ -43,5 +43,6 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 
 
 [0]: doc/screenshots/APP.png	"app_pic" 
-[1]: hardware/Rpi_Himax.jpg	"hardware_pic"
-[2]: hardware/Insole.png	"hardware_pic"
+[1]: hardware/photo.png	"hardware_pic"
+[2]: hardware/Rpi_Himax.jpg	"hardware_pic"
+
