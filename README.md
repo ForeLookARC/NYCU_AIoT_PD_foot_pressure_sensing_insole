@@ -4,7 +4,7 @@ This application is designed to show how to diagnose whether the users have the 
 * [Introduction](#introduction)
 	* [Function](#function)
 	* [System Architecture](#system-architecture)
-	* [Freeboard UI](#freeboard-ui)
+	* [Android App](#android-app)
 * [Hardware and Software Setup](#hardware-and-software-setup)
 	* [Required Hardware](#required-hardware)
 	* [Required Software](#required-software)
@@ -12,12 +12,6 @@ This application is designed to show how to diagnose whether the users have the 
 * [User Manual](#user-manual)
 	* [Before Running This Application](#before-running-this-application)
 	* [Run This Application](#run-this-application)
-	* [Add a New Node](#add-a-new-node)
-		* [Makefile](#makefile)
-		* [Main Entry](#main-entry)
-		* [Driver](#driver)
-		* [Function Module](#function-module)
-		* [LwM2M Client](#lwm2m-client)
 
 ## Introduction
 
