@@ -27,12 +27,12 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 ![app pic][0]
 ## Hardware and Software Setup
 ### Required Hardware
-- 1 Himax WE-I Plus EVB Endpoint AI Development Board
+- 1 [Himax WE-I Plus EVB Endpoint AI Development Board][2]
 <img src="hardware/Himax WE-I.jpg" alt="Himax" width="50%"/>
 
 - 2 Raspberry Pi 3 B
-- 2 8-Channel 12-Bit ADC for Raspberry Pi (STM32F030)
-- 2 RPi UPSPack V3
+- 2 [8-Channel 12-Bit ADC for Raspberry Pi (STM32F030)][3]
+- 2 [RPi UPSPack V3][4]
 - 2 4000mAh Lithium Battery
 - 2 Pressure Sensing Insoles (Homemade)
 	- 2 Insoles
@@ -63,3 +63,6 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 
 [0]: doc/screenshots/APP.png	"app_pic" 
 [1]: http://www.memstec.com.tw/productDetail.php?PNo=107	"FlexiForce A301 Pressure Sensor (111N)"
+[2]: https://www.sparkfun.com/products/17256	"Himax WE-I Plus EVB Endpoint AI Development Board"
+[3]: https://wiki.seeedstudio.com/8-Channel_12-Bit_ADC_for_Raspberry_Pi-STM32F030/	"8-Channel 12-Bit ADC for Raspberry Pi (STM32F030)"
+[4]: https://www.raspberrypi.com.tw/10684/55/	"RPi UPSPack V3"
