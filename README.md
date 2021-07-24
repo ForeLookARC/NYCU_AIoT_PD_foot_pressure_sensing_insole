@@ -35,11 +35,10 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - 16 FlexiForce A301 Pressure Sensor (111N)
 
 - **The physical picture shown below.**
-[1]: hardware/photo.png	"hardware_pic"
 <img src="hardware/photo.png" alt="photo" width="50%"/>
 
 - **The structure diagram shown below.**
-![hardware_pic][2]
+<img src="hardware/Rpi_Himax.jpg" alt="photo" width="50%"/>
 
 ### Required Software
 - Metaware or ARC GNU Toolset
@@ -55,6 +54,4 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 
 
 [0]: doc/screenshots/APP.png	"app_pic" 
-
-[2]: hardware/Rpi_Himax.jpg	"hardware_pic"
 
