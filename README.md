@@ -27,6 +27,12 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 ![app pic][0]
 ## Hardware and Software Setup
 ### Required Hardware
+- 1 Himax WE-I Plus EVB Endpoint AI Development Board
+- 2 Raspberry Pi 3 Model B
+- 2 8-Channel 12-Bit ADC for Raspberry Pi (STM32F030)
+- 2 RPi UPSPack V3
+- 2 4000mAh Lithium Battery
+- 16 FlexiForce A301 Pressure Sensor (111N)
 ![hardware_pic][1]
 ![hardware_pic][2]
 ### Required Software
