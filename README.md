@@ -38,7 +38,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 <img src="hardware/photo.png" alt="photo" width="50%"/>
 
 - **The structure diagram shown below.**
-<img src="hardware/Rpi_Himax.jpg" alt="photo" width="70%"/>
+<img src="hardware/structure_diagram.png" alt="photo" width="70%"/>
 
 ### Required Software
 - Metaware or ARC GNU Toolset
