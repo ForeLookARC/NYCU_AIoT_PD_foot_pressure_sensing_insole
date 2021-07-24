@@ -31,6 +31,10 @@ Our device can be controlled by AIOT-PD Android App. You can start/stop the meas
 ### Required Hardware
 
 ### Required Software
+- Metaware or ARC GNU Toolset
+- embARC Machine Learning Inference Library
+- Serial port terminal, such as putty, tera-term or minicom
+- AIOT-PD Android App
 
 ### Hardware Connection
 
