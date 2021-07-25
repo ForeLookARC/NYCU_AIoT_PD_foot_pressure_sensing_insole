@@ -80,6 +80,8 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 ### Run This Application
 ##### To start foot pressure collecting and make disease diagnosis
 - Create `output_gnu.img`
+	- Go to the [Github of Synopsys][5] and clone or download it.
+	- Put the folder `foot_project_split_test_merge_0725` in the following path `(arc_contest/Synopsys_SDK/User_Project/)` 
 	- Open folder in Visual Studio Code  `(……/arc_contest/Synopsys_SDK/User_Project/foot_project_split_test_merge_0725) `
 	- Open Terminal and key-in "make"
 		
@@ -131,3 +133,4 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 [2]: https://www.sparkfun.com/products/17256	"Himax WE-I Plus EVB Endpoint AI Development Board"
 [3]: https://wiki.seeedstudio.com/8-Channel_12-Bit_ADC_for_Raspberry_Pi-STM32F030/	"8-Channel 12-Bit ADC for Raspberry Pi (STM32F030)"
 [4]: https://www.raspberrypi.com.tw/10684/55/	"RPi UPSPack V3"
+[5]: https://github.com/foss-for-synopsys-dwc-arc-processors/arc_contest?fbclid=IwAR3cRFWJ9Nt5I9KPSxwqAkDHVU7zAONipbmv1w7KuP6sxsGFPmNQKE33DJ8	"Github of Synopsys"
