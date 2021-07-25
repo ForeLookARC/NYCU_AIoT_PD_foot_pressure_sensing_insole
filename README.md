@@ -72,6 +72,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 |  RPi UPSPack V3     |        Portable Power Supply                                  |
 |  Raspberry Pi 3     |        Data Preprocessing, Provide Wifi Connection            |
 ### Run This Application
+##### To start foot pressure collecting and make disease diagnoses
 - Create output_gnu.img
 
 		Open folder in Visual Studio Code (……/arc_contest/Synopsys_SDK/User_Project/foot_project_split_test)
@@ -80,10 +81,19 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 		Open Virtual Machine Ubuntu and go to same project path ({Share Folder…}\arc_contest\Synopsys_SDK\User_Project\foot_project_split_test)
 		Open Terminal and key-in "make flash"
 		Get output_gnu.img
-
+- Press reset on WE-I Plus board 
 - Modify IP on Raspberry Pi 3 and APP to your own
 - Connect your Raspberry Pi 3 and Mobilephone to same Wi-Fi
-				
+##### To sign up a new ID in AIoT-PD APP
+- Open AIoT-PD APP
+- Type your `Name` and `Password`
+- Click `register button` to register
+
+##### To run AIoT-PD APP
+- Open AIoT-PD APP and sign in
+- Press `Start Boutton` to start data collecting
+- Press `Stop Boutton` to stop data collecting	
+- After walking for 30 seconds, press `Show Result Boutton` to see the score
 	
 
 
