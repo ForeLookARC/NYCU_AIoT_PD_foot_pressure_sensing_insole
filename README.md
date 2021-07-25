@@ -110,10 +110,10 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 ##### To run Raspberry Pi 3
 - Run `RPi_server_right.py` on right foot Raspberry Pi 3
 - Press `log in button` to log in or sign up your account
-<img src="doc/screenshots/RPi_log_in.png" alt="login" width="50%"/>
+	<img src="doc/screenshots/RPi_log_in.png" alt="login" width="20%"/>
 
 - Press `start button` to create a TCP socket server
-<img src="doc/screenshots/RPi_GUI.png" alt="RPiGUI" width="50%"/>
+	<img src="doc/screenshots/RPi_GUI.png" alt="RPiGUI" width="30%"/>
 
 - Run `project_client_left.py` on left foot Raspberry Pi 3 to create a client, then connects to the server
 			
