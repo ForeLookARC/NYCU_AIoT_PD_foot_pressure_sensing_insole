@@ -88,7 +88,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - Connect your Raspberry Pi 3 and Mobilephone to same Wi-Fi
 - Modify IP on Raspberry Pi 3 and APP to your own
 
-	- 1. APP
+	- APP
 
 			  fun Myconnect( ){
 				socket = Socket( #Your IP Address , #Your Port )
