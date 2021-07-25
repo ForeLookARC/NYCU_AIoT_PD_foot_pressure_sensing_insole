@@ -38,16 +38,16 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 
 - **The Pressure Sensing Insole shown below.**
 
-	<img src="hardware/insole.jpg" alt="structure_diagram" width="30%"/>
+	<img src="hardware/insole.jpg" alt="structure_diagram" width="20%"/>
 
 	- 2 Insoles
 	- 16 [FlexiForce A301 Pressure Sensor (111N)][1]
 
 - **The physical picture shown below.**
-<img src="hardware/photo.png" alt="photo" width="60%"/>
+<img src="hardware/photo.png" alt="photo" width="50%"/>
 
 - **The structure diagram shown below.**
-<img src="hardware/structure_diagram.png" alt="structure_diagram" width="70%"/>
+<img src="hardware/structure_diagram.png" alt="structure_diagram" width="60%"/>
 
 ### Required Software
 - Metaware or ARC GNU Toolset
