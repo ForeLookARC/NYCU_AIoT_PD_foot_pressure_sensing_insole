@@ -87,6 +87,14 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - Press reset on WE-I Plus board 
 - Connect your Raspberry Pi 3 and Mobilephone to same Wi-Fi
 - Modify IP on Raspberry Pi 3 and APP to your own
+
+	- 1. APP
+
+	  fun Myconnect(){
+	  	socket = Socket(`Your IP Address`,`Your Port`)
+	  }
+	
+			
 ##### To sign up a new ID in AIoT-PD APP
 - Open the APP
 - Type your `Name` and `Password`
