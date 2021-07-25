@@ -109,11 +109,11 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 
 ##### To run Raspberry Pi 3
 - Run `RPi_server_right.py` on right foot Raspberry Pi 3
-- Press `log in button` to log in or sign up your account
+- Press `log in` button to log in or sign up your account
 <img src="doc/screenshots/RPi_log_in.png" alt="login" width="30%"/>
 
-- Press `start button` to create a TCP socket server
-<img src="doc/screenshots/RPi_GUI.png" alt="RPiGUI" width="30%"/>
+- Press `start` button to create a TCP socket server
+<img src="doc/screenshots/RPi_GUI.png" alt="RPiGUI" width="35%"/>
 
 - Run `project_client_left.py` on left foot Raspberry Pi 3 to create a client, then connects to the server
 			
@@ -124,8 +124,8 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 
 ##### To run AIoT-PD APP
 - Open the APP and sign in
-- Press `Start Button` to start data collecting
-- Press `Stop Button` to stop data collecting	
+- Press `Start` Button to start data collecting
+- Press `Stop` Button to stop data collecting	
 - After walking for 30 seconds, press `Show Result Boutton` to see the score
 	
 
