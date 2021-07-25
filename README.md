@@ -72,7 +72,9 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 |  RPi UPSPack V3     |        Portable Power Supply                                  |
 |  Raspberry Pi 3     |        Data Preprocessing, Provide Wifi Connection            |
 ### Run This Application
+- Create output_gnu.img
 
+	Open Visual Studio Code & open folder
 
 
 [1]: http://www.memstec.com.tw/productDetail.php?PNo=107	"FlexiForce A301 Pressure Sensor (111N)"
