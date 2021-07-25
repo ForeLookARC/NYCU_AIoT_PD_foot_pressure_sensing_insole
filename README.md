@@ -91,7 +91,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 	- 1. APP
 
 			  fun Myconnect( ){
-				socket = Socket( `Your IP Address` , `Your Port` )
+				socket = Socket( #Your IP Address , #Your Port )
 			  }
 	
 			
