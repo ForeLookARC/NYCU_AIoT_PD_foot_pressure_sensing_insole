@@ -86,8 +86,8 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 		Open Terminal and key-in "make flash"
 		Get output_gnu.img
 - Press reset on WE-I Plus board 
-- Modify IP on Raspberry Pi 3 and APP to your own
 - Connect your Raspberry Pi 3 and Mobilephone to same Wi-Fi
+- Modify IP on Raspberry Pi 3 and APP to your own
 ##### To sign up a new ID in AIoT-PD APP
 - Open the APP
 - Type your `Name` and `Password`
