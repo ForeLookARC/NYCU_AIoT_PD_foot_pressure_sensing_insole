@@ -100,11 +100,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 	
 			#Initialize socket parameter of server
 			TCP_IP = # Your IP Address
-			TCP_PORT = # Your Port
-	                  #Initialize socket parameter of server
-    			  TCP_IP = # Your IP Address
-			  TCP_PORT = # Your Por
-	
+			TCP_PORT = # Your Port	
 			
 ##### To sign up a new ID in AIoT-PD APP
 - Open the APP
