@@ -85,12 +85,12 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - Modify IP on Raspberry Pi 3 and APP to your own
 - Connect your Raspberry Pi 3 and Mobilephone to same Wi-Fi
 ##### To sign up a new ID in AIoT-PD APP
-- Open AIoT-PD APP
+- Open the APP
 - Type your `Name` and `Password`
 - Click `register button` to register
 
 ##### To run AIoT-PD APP
-- Open AIoT-PD APP and sign in
+- Open the APP and sign in
 - Press `Start Boutton` to start data collecting
 - Press `Stop Boutton` to stop data collecting	
 - After walking for 30 seconds, press `Show Result Boutton` to see the score
