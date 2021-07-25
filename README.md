@@ -32,7 +32,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 
 ### Required Hardware
 - 1 [Himax WE-I Plus EVB Endpoint AI Development Board][2]
-	<img src="hardware/Himax WE-I.jpg" alt="Himax" width="20%"/>
+<img src="hardware/Himax WE-I.jpg" alt="Himax" width="20%"/>
 
 - 2 Raspberry Pi 3 B
 - 2 [8-Channel 12-Bit ADC for Raspberry Pi (STM32F030)][3]
@@ -48,10 +48,10 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 	- 16 [FlexiForce A301 Pressure Sensor (111N)][1]
 
 - **The physical picture shown below.**
-<img src="hardware/photo.png" alt="photo" width="50%"/>
+	<img src="hardware/photo.png" alt="photo" width="50%"/>
 
 - **The structure diagram shown below.**
-<img src="hardware/structure_diagram.png" alt="structure_diagram" width="50%"/>
+	<img src="hardware/structure_diagram.png" alt="structure_diagram" width="50%"/>
 
 ### Required Software
 - Metaware or ARC GNU Toolset
