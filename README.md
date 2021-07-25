@@ -74,8 +74,8 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 ### Run This Application
 ##### To start foot pressure collecting and make disease diagnoses
 - Create output_gnu.img
-		-aaaa
 
+		- aaaa
 		Open folder in Visual Studio Code (……/arc_contest/Synopsys_SDK/User_Project/foot_project_split_test)
 		Open Terminal and key-in "make"
 		
