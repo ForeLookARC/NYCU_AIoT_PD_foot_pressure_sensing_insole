@@ -92,13 +92,13 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - Connect your Raspberry Pi 3 and Mobilephone to same Wi-Fi
 - Modify IP on Raspberry Pi 3 and APP to your own
 
-	- Raspberry Pi 3(right foot): `RPi_server_right.py`
+	- Raspberry Pi 3(right foot): `right_rpi_server.py`
 	
 			#Initialize socket parameter of server
 			TCP_IP = # Your IP Address(Server)
 			TCP_PORT = # Your Port	
 			
-	- Raspberry Pi 3(left foot): `project_client_left.py`
+	- Raspberry Pi 3(left foot): `left_rpi_client.py`
 
 			TCP_IP = # Your IP Address(Server)
 			TCP_PORT = # Your Port
