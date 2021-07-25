@@ -30,7 +30,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 
 ### Required Hardware
 - 1 [Himax WE-I Plus EVB Endpoint AI Development Board][2]
-<img src="hardware/Himax WE-I.jpg" alt="Himax" width="50%"/>
+<img src="hardware/Himax WE-I.jpg" alt="Himax" width="40%"/>
 
 - 2 Raspberry Pi 3 B
 - 2 [8-Channel 12-Bit ADC for Raspberry Pi (STM32F030)][3]
