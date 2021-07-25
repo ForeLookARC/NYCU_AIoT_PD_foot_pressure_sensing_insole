@@ -20,6 +20,8 @@ This application is designed to show how to diagnose whether the users have the 
 
 AIoT PD Foot Pressure Sensing Insole is a smart device which can be used to monitor the high-risk populations of Parkinson's disease. By daily monitoring, users can get the warning before everything get worse and look for the treatment as soon as possible. For PD patients, our project can also be a severity reference.
 
+### Demo Link
+[Click here][6]
 
 ### System Architecture
 
@@ -134,3 +136,4 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 [3]: https://wiki.seeedstudio.com/8-Channel_12-Bit_ADC_for_Raspberry_Pi-STM32F030/	"8-Channel 12-Bit ADC for Raspberry Pi (STM32F030)"
 [4]: https://www.raspberrypi.com.tw/10684/55/	"RPi UPSPack V3"
 [5]: https://github.com/foss-for-synopsys-dwc-arc-processors/arc_contest?fbclid=IwAR3cRFWJ9Nt5I9KPSxwqAkDHVU7zAONipbmv1w7KuP6sxsGFPmNQKE33DJ8	"Github of Synopsys"
+[6]: https://www.youtube.com/watch?v=oRfj1cW1nZ8	"Click here"
