@@ -49,7 +49,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 <img src="hardware/photo.png" alt="photo" width="50%"/>
 
 - **The structure diagram shown below.**
-<img src="hardware/structure_diagram.png" alt="structure_diagram" width="60%"/>
+<img src="hardware/structure_diagram.png" alt="structure_diagram" width="50%"/>
 
 ### Required Software
 - Metaware or ARC GNU Toolset
