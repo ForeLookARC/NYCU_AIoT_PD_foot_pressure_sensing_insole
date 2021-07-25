@@ -76,11 +76,14 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 
 		Open folder in Visual Studio Code (……/arc_contest/Synopsys_SDK/User_Project/foot_project_split_test)
 		Open Terminal and key-in "make"
+		
 		Open Virtual Machine Ubuntu and go to same project path ({Share Folder…}\arc_contest\Synopsys_SDK\User_Project\foot_project_split_test)
 		Open Terminal and key-in "make flash"
 		Get output_gnu.img
 
-		
+- Modify IP on Raspberry Pi 3 and APP to your own
+- Connect your Raspberry Pi 3 and Mobilephone to same Wi-Fi
+				
 	
 
 
