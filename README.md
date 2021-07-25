@@ -78,13 +78,12 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 ### Run This Application
 ##### To start foot pressure collecting and make disease diagnoses
 - Create output_gnu.img
-
-		Open folder in Visual Studio Code (……/arc_contest/Synopsys_SDK/User_Project/foot_project_split_test)
-		Open Terminal and key-in "make"
+	- Open folder in Visual Studio Code (……/arc_contest/Synopsys_SDK/User_Project/foot_project_split_test)
+	- Open Terminal and key-in "make"
 		
-		Open Virtual Machine Ubuntu and go to same project path ({Share Folder…}\arc_contest\Synopsys_SDK\User_Project\foot_project_split_test)
-		Open Terminal and key-in "make flash"
-		Get output_gnu.img
+	- Open Virtual Machine Ubuntu and go to same project path ({Share Folder…}\arc_contest\Synopsys_SDK\User_Project\foot_project_split_test)
+	- Open Terminal and key-in "make flash"
+	- Get output_gnu.img
 - Press reset on WE-I Plus board 
 - Connect your Raspberry Pi 3 and Mobilephone to same Wi-Fi
 - Modify IP on Raspberry Pi 3 and APP to your own
