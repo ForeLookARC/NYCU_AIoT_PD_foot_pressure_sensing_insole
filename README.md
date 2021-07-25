@@ -41,7 +41,8 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - 2 Pressure Sensing Insoles(Homemade)
 
 - **The Pressure Sensing Insole shown below.**
-	<img src="hardware/insole.jpg" alt="structure_diagram" width="20%"/>
+	
+<img src="hardware/insole.jpg" alt="structure_diagram" width="20%"/>
 
 	- 2 Insoles
 	- 16 [FlexiForce A301 Pressure Sensor (111N)][1]
