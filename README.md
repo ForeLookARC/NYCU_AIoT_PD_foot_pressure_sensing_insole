@@ -97,9 +97,9 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 			TCP_PORT = # Your Port	
 	- APP
 			
-			  fun Myconnect( ){
+			fun Myconnect( ){
 				socket = Socket( # Your IP Address , # Your Port )
-			  }
+			}
 
 			
 ##### To sign up a new ID in AIoT-PD APP
