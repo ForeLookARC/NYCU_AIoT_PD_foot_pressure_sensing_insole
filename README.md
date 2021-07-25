@@ -74,7 +74,11 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 ### Run This Application
 - Create output_gnu.img
 
-	Open Visual Studio Code & open folder
+		Open Visual Studio Code & open folder (……/arc_contest/Synopsys_SDK/User_Project/foot_project_split_test)
+		Open Terminal and key-in **make**
+		
+	
+
 
 
 [1]: http://www.memstec.com.tw/productDetail.php?PNo=107	"FlexiForce A301 Pressure Sensor (111N)"
