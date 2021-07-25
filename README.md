@@ -40,13 +40,13 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - 2 [8-Channel 12-Bit ADC for Raspberry Pi (STM32F030)][3]
 - 2 [RPi UPSPack V3][4]
 - 2 4000mAh Lithium Battery
-- 2 Pressure Sensing Insoles(Homemade)
+- 2 Pressure Sensing Insole(Homemade)
 
 - **The Pressure Sensing Insole shown below.**
 	
 	<img src="hardware/insole.jpg" alt="structure_diagram" width="30%"/>
 
-	- 2 Insoles
+	- 2 Insole
 	- 16 [FlexiForce A301 Pressure Sensor (111N)][1]
 
 - **The physical picture shown below.**
@@ -61,7 +61,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - AIoT-PD Android App
 
 ### Hardware Connection
-- Connect **Himax WE-I Plus** to **Raspberry Pi** with USB cable(using UART)
+- Connect **WE-I Plus board** to **Raspberry Pi** with USB cable(using UART)
 - Connect **Raspberry Pi** to **8-Channel 12-Bit ADC** and **RPi UPSPack V3**(with Lithium Battery)
 - Connect **pressure sensing insole** to **8-Channel 12-Bit ADC**
 - Connect **Raspberry Pi** and mobile phone via WiFi
@@ -79,14 +79,16 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 |  Raspberry Pi 3     |        Data Preprocessing, Provide Wifi Connection            |
 ### Run This Application
 ##### To start foot pressure collecting and make disease diagnosis
-- Create output_gnu.img
+- Create `output_gnu.img`
 	- Open folder in Visual Studio Code  `(……/arc_contest/Synopsys_SDK/User_Project/foot_project_split_test_merge_0725) `
 	- Open Terminal and key-in "make"
 		
 	- Open Virtual Machine Ubuntu and go to same project path  `({Share Folder…}\arc_contest\Synopsys_SDK\User_Project\foot_project_split_test_merge_0725) `
 	- Open Terminal and key-in "make flash"
-	- Get output_gnu.img
-- Press reset on WE-I Plus board 
+	- Get `output_gnu.img`
+- Open your serial terminal such as Tera-Term on PC, and configure it to right COM port and 115200bps
+- Burn `output_gnu.img` onto WE-I Plus board
+- Press reset on WE-I Plus board
 - Connect your Raspberry Pi 3 and Mobilephone to same Wi-Fi
 - Modify IP on Raspberry Pi 3 and APP to your own
 
