@@ -128,7 +128,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - Open the APP and sign in
 - Press `Start` button to start data collecting
 - Press `Stop` button to stop data collecting	
-- After walking for 30 seconds, press `Show Result Boutton` to see the score
+- After walking for 30 seconds, press `Show Result` boutton to see the score
 	
 
 
