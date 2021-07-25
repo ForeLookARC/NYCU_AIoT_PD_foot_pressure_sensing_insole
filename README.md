@@ -78,7 +78,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 |  RPi UPSPack V3     |        Portable Power Supply                                  |
 |  Raspberry Pi 3     |        Data Preprocessing, Provide Wifi Connection            |
 ### Run This Application
-##### To start foot pressure collecting and make disease diagnoses
+##### To start foot pressure collecting and make disease diagnosis
 - Create output_gnu.img
 	- Open folder in Visual Studio Code  `(……/arc_contest/Synopsys_SDK/User_Project/foot_project_split_test_merge_0725) `
 	- Open Terminal and key-in "make"
@@ -90,17 +90,28 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - Connect your Raspberry Pi 3 and Mobilephone to same Wi-Fi
 - Modify IP on Raspberry Pi 3 and APP to your own
 
-	- Raspberry Pi 3
+	- Raspberry Pi 3(right foot): `RPi_server_right.py`
 	
 			#Initialize socket parameter of server
-			TCP_IP = # Your IP Address
+			TCP_IP = # Your IP Address(Server)
 			TCP_PORT = # Your Port	
+			
+	- Raspberry Pi 3(left foot): `project_client_left.py`
+
+			TCP_IP = # Your IP Address(Server)
+			TCP_PORT = # Your Port
+			
 	- APP
 			
 			fun Myconnect( ){
 				socket = Socket( # Your IP Address , # Your Port )
 			}
 
+##### To run Raspberry Pi 3
+- Run `RPi_server_right.py` on right foot Raspberry Pi 3
+- Press `log in button` to log in or sign up your account
+- Press `start button` to create a TCP socket server
+- Run `project_client_left.py` on left foot Raspberry Pi 3 to create a client, then connects to the server
 			
 ##### To sign up a new ID in AIoT-PD APP
 - Open the APP
@@ -109,8 +120,8 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 
 ##### To run AIoT-PD APP
 - Open the APP and sign in
-- Press `Start Boutton` to start data collecting
-- Press `Stop Boutton` to stop data collecting	
+- Press `Start Button` to start data collecting
+- Press `Stop Button` to stop data collecting	
 - After walking for 30 seconds, press `Show Result Boutton` to see the score
 	
 
