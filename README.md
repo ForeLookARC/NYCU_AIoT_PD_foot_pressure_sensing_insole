@@ -25,6 +25,7 @@ AIoT PD Foot Pressure Sensing Insole is a smart device which can be used to moni
 Our device can be controlled by AIoT-PD Android App. You can start/stop the measurement, see your foot pressure destribution and the final result on the App.
 
 <img src="doc/screenshots/APP.png" alt="APP" width="50%"/>
+
 ## Hardware and Software Setup
 
 ### Required Hardware
