@@ -64,7 +64,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - Connect **WE-I Plus board** to **Raspberry Pi** with USB cable(using UART)
 - Connect **Raspberry Pi** to **8-Channel 12-Bit ADC** and **RPi UPSPack V3**(with Lithium Battery)
 - Connect **pressure sensing insole** to **8-Channel 12-Bit ADC**
-- Connect **Raspberry Pi** and mobile phone via WiFi
+- Connect **Raspberry Pi** and mobile phone via Wi-Fi
 
 ## User Manual
 ### Before Running This Application
