@@ -91,13 +91,16 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 - Modify IP on Raspberry Pi 3 and APP to your own
 
 	- APP
-
+			
 			  fun Myconnect( ){
 				socket = Socket( # Your IP Address , # Your Port )
 			  }
 			  
 	- Raspberry Pi 3
 	
+			#Initialize socket parameter of server
+			TCP_IP = # Your IP Address
+			TCP_PORT = # Your Port
 	                  #Initialize socket parameter of server
     			  TCP_IP = # Your IP Address
 			  TCP_PORT = # Your Por
