@@ -122,12 +122,12 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 ##### To sign up a new ID in AIoT-PD APP
 - Open the APP
 - Type your `Name` and `Password`
-- Click `register button` to register
+- Click `register` button to register
 
 ##### To run AIoT-PD APP
 - Open the APP and sign in
-- Press `Start` Button to start data collecting
-- Press `Stop` Button to stop data collecting	
+- Press `Start` button to start data collecting
+- Press `Stop` button to stop data collecting	
 - After walking for 30 seconds, press `Show Result Boutton` to see the score
 	
 
