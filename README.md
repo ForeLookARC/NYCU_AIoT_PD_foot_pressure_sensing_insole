@@ -28,7 +28,7 @@ Our device can be controlled by AIoT-PD Android App. You can start/stop the meas
 
 ## Hardware and Software Setup
 
-<img src="doc/screenshots/system_architecture.png" alt="system_architecture" width="50%"/>
+<img src="doc/screenshots/system_architecture.png" alt="system_architecture" width="100%"/>
 
 ### Required Hardware
 - 1 [Himax WE-I Plus EVB Endpoint AI Development Board][2]
